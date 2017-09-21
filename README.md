@@ -1,2 +1,2 @@
-# testing race condition, first commit
+# testing race condition, second commit
 # gitdemo
